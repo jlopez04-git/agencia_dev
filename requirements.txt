@@ -1,0 +1,8 @@
+django==3.2.16 # Programa
+django-environ==0.9.0 # Nos permite porner en secreto las contraseñas cuando públicas tu sitio
+django-cors-headers==3.13.0 # Permite la comunicación entre el front end y el back end
+djangorestframework==3.14.0 # Nos permite crear apis con django
+Pillow==9.3.0 # Para trabajar con imagenes
+django-storages==1.13.1 # Para guardar las imagenes en aws
+django-ckeditor==6.3.2 # Poder crear de maner más rica (fonts,italic, underline)
+psycopg2==2.9.5 # Permite trabajar con postgresql base de datos
